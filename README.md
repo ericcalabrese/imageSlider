@@ -4,4 +4,4 @@ An imade slider made with HTML and CSS, using several CSS tricks to have the ima
 
 You can git clone this repo or click below to see the final result:
 
-imageslider.surge.sh
+https://imageslider.surge.sh/
